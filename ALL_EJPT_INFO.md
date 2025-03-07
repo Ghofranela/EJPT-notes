@@ -54,12 +54,10 @@ description: eLearnSecurity Junior Penetration Tester (eJPT) v2 Notes
 
 ## Resources 📑📘
 
-### 👉 [Preparation RoadMap to pass eJPT exam](README-1.md) 🛣️
+### 👉 [Preparation RoadMap to pass eJPT exam](Road_map.md) 🛣️
 
-### 👉 [eJPT Cheat Sheet](ejpt-cheat-sheet.md) 📔
+### 👉 [eJPT Cheat Sheet](cheat_sheet.md) 📔
 
 
-
-🙏🏻 _Thanks to Alex for allowing me the opportunity to fork_ [_his notes._](https://blog.syselement.com/ine/courses/ejpt)🙏🏻
 
 > 📖 Read the [Letter Of Engagement](https://media.graphassets.com/RdsCvab8SvacedNV5k4V)​📖 Read the [Lab Guidelines](https://media.graphassets.com/26hoOMeZQDyu7QJQlvaJ)
